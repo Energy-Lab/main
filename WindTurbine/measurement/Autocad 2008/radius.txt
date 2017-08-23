@@ -1,0 +1,4 @@
+distance holes: 22.86mm or .9inch
+first start hole: 106mm
+last  end hole: 151.72mm
+all plate: 1900mm
