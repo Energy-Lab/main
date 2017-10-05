@@ -1,1 +1,5 @@
 
+lnk305gn - buck converter/Shorcurcuit protection. Low level and hight efficiency microcontroller block
+MC9S08AW32 - 8 -bit micro controler with timers aspects
+ACS3025 ..> T3 - AC Switch for microcontroler Family 0.2mA max load output also  Eliminates any stressing gate kick back on the
+microcontrolle
