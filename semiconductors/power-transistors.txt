@@ -1,1 +1,1 @@
-
+AMS1117 5.0DN728 - Voltage Regulator 5V output , max input 15v
