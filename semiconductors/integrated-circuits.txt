@@ -2,4 +2,5 @@
 lnk305gn - buck converter/Shorcurcuit protection. Low level and hight efficiency microcontroller block
 MC9S08AW32 - 8 -bit micro controler with timers aspects
 ACS3025..>T3- AC Switch for microcontroler Family  also eliminates any stressing gate kick back on the microcontrolle.Compact block
-ACS1086S AC switch family Transient voltage protected AC Switch,Drive of low power high inductive or resistive loads like:–relay
+ACS1086 - AC switch family Transient voltage protected AC Switch,Drive of low power high inductive or resistive loads like:–relay
+ACS120-7S - AC static switching in appliance control systems 700v, G 10mA 
