@@ -1,1 +1,2 @@
 AMS1117 5.0 DN728 - Voltage Regulator 5V output , max input 15v
+2N6504  half-wave ac control applications, such as motor controls, heating controls and power supply crowbar circuits
