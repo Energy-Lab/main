@@ -5,5 +5,5 @@ ACS3025..>T3- AC Switch for microcontroler Family  also eliminates any stressing
 ACS1086 - AC switch family Transient voltage protected AC Switch,Drive of low power high inductive or resistive loads like:–relay
 ACS120-7S - AC static switching in appliance control systems 700v, G 10mA 
 MOC3021 - 250 V Phototriac Driver Output
-ULN2003 High-Voltage, High-Current Darlington Transistor Arrays
+ULN2003 - IC High-Voltage, High-Current Darlington Transistor Arrays
 
