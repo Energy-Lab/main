@@ -2,6 +2,9 @@
 2. Search for 'LIBRARY' folder (shoud be orther libs by defult) and paste .IDX and .LIB files.
 3. Re-open Proteus IDE , activate libs. Now can search in 'P' loaded stuff.
 
+Make PCB
+Basic Custom Raw Chip - https://www.youtube.com/watch?v=8-cv1bCiuKM
+
 Library Links
 Arduino - https://drive.google.com/file/d/0B3wYaSZct4SyVHBFbVBaYU5ESTg/view
 Arduino + pro mini - http://www.instructables.com/id/Arduino-Nano-Pro-Mini-Uno-12802560-Library-for-Pro/
