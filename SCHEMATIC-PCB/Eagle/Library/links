@@ -1,0 +1,12 @@
+How Add Library 
+1. Locate library Folder //:   C:\EAGLE 8.3.2\lbr
+2. Paste (.lbr) files
+3. in Eagle in the scematic project  go to //: Library/Open libraryr manager/Available/Browse/(select .lbr files)--> Open / Use 'button'
+
+library links
+
+Serach: Eagle library diode
+
+https://github.com/chiengineer/Eagle-Libraries
+https://github.com/adafruit/Adafruit-Eagle-Library
+https://github.com/cyberlink1/Arduino-Eagle-Cad-Library
