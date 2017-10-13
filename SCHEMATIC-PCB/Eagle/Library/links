@@ -1,7 +1,7 @@
 How Add Library 
 1. Locate library Folder //:   C:\EAGLE 8.3.2\lbr
 2. Paste (.lbr) files
-3. in Eagle in the scematic project  go to //: Library/Open libraryr manager/Available/Browse/(select .lbr files)--> Open / Use 'button'
+3. Eagle in the scematic project go to //: Library/Open library manager/Available/Browse/(select .lbr files)--> Open / Use 'button'
 
 library links
 
