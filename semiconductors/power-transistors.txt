@@ -18,5 +18,5 @@ Bipolar Junction Transistors  --> BJT
       TIP127 (PNP) 5A darlington
         HIGHT VOLATGE
            2STA1943 - High power PNP epitaxial planar bipolar transistor 230v
-      
+           FJL6820  - HIGHT power 1500v (NPN) 20A DC,VEBO 6v , 200w power
 
