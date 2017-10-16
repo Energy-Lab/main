@@ -1,10 +1,11 @@
 AMS1117 5.0 DN728 - Voltage Regulator 5V output , max input 15v
 2N6504  half-wave ac control applications, such as motor controls, heating controls and power supply crowbar circuits
 PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output structure manipulate AC or DC
-  HIGHT Power Bipolar Junction Transistors  --> BJT
-  BC637 - NPN Hight current transistor 1A  -- BJT
-  NJW0281G (NPN) ~3A
-  NJW0302G (PNP) ~3A
+  Bipolar Junction Transistors  --> BJT
+   BC637 - NPN Hight current transistor 1A  -- BJT
+   HIGHT Power
+    NJW0281G (NPN) ~3A
+    NJW0302G (PNP) ~3A
       HIGHT VOLATGE
       2STA1943 - High power PNP epitaxial planar bipolar transistor 230v
 
