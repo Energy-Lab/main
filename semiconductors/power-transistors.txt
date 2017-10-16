@@ -25,6 +25,7 @@ Bipolar Junction Transistors  --> BJT
       TIP122,TIP120 (NPN) 5A Darlington
       TIP127 (PNP) 5A darlington
       TIP42C (PNP) Medium power switching transistor Veb=-5v, Ic=-6v, Icp=10A, Vce -100v
+       TIP32C (PNP) Vebo=-5v , Ic=-3A
         HIGHT VOLATGE
            2STA1943 - High power PNP epitaxial planar bipolar transistor 230v
            FJL6820  - HIGHT power 1500v (NPN) 20A DC,VEBO 6v , 200w power
