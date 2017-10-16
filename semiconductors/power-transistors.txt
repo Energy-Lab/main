@@ -2,11 +2,11 @@ AMS1117 5.0 DN728 - Voltage Regulator 5V output , max input 15v
 2N6504  half-wave ac control applications, such as motor controls, heating controls and power supply crowbar circuits
 PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output structure manipulate AC or DC
   
- MOSFET - Metal Oxide Fiel Effected transistor. >200kHz
+ MOSFET - Metal Oxide Fiel Effected transistor. <240kHz Aplications
     FQP30N06L N-Shanel 60v,32A constant,35mOhm
     IRLB4030PbF - N-Shanel Very Low RDS(ON) 3.4mΩ-4.2mΩ_MAX at 4.5V , ID 180A - 140w, VDSS 100v , VGS ~+ 16v max
     
- IGBT - Insulated Gate Bipolar Transistor 
+ IGBT - Insulated Gate Bipolar Transistor .  >240kHz Aplications
     GP50B60PD1 -N-Channel VCES = 600V ,VCE(on) typ. = 2.00V,@ VGE = 15V IC = 33A,RCE(on) typ. = 61mΩ,ID (FET equivalent) = 50A
 
 
