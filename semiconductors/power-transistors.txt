@@ -11,6 +11,7 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     BD535 - (NPN) Complementary power transistors 8A , (PNP)  BD534 and BD536.
     TIP142 (NPN) 10A 60-100v Darlington
     TIP147 (PNP) 10A 60-100v Darlington
+    TIP122,TIP120 (NPN) 5A Darlington
     TIP127 (PNP) 5A darlington
       HIGHT VOLATGE
       2STA1943 - High power PNP epitaxial planar bipolar transistor 230v
