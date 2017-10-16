@@ -24,7 +24,7 @@ Bipolar Junction Transistors  --> BJT
       TIP147 (PNP) 10A 60-100v Darlington
       TIP122,TIP120 (NPN) 5A Darlington
       TIP127 (PNP) 5A darlington,Vceo=-100V,Ib=120mA
-      TIP42C (PNP) Medium power switching transistor Veb=-5v, Ic=-6v, Icp=10A, Vce -100v
+      TIP42C (PNP) Medium power switching transistor Veb=-5v, Ic=-6v, Icp=10A, Vce -100v,Ib=40mA
       TIP32C (PNP) Vebo=-5v , Ic=-3A
       B772 (PNP) Vebo = -5v,Vceo=-60v,Ic = 3A power
       BD136 (PNP) Vceo = -45v,Ic=1.5A,
