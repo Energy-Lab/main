@@ -12,3 +12,6 @@ MOC3062SM - Optocoupler triac http://www.mouser.com/ds/2/149/MOC3062M-196063.pdf
 T3035H-6T - Triac http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00263568.pdf
 PC123 DIP-4 - opti Triac
 817c - Optocoupler  use on relays 
+
+Multiplexers 
+74HC4051D-T =8-channel analog multiplexer/demultiplexer
