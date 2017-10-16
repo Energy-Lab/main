@@ -4,6 +4,7 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
   
  MOSFET
     FQP30N06L N-Shanel 60v,32A constant,35mOhm
+    IRLB4030PbF - Very Low RDS(ON) 3.4mΩ-4.2mΩ_MAX at 4.5V , ID 180A - 140w, VDSS 100v , VGS ~+ 16v max
   
 Bipolar Junction Transistors  --> BJT
    BC637 - (NPN) Hight current transistor 1A  -- BJT
