@@ -15,3 +15,4 @@ PC123 DIP-4 - opti Triac
 
 Multiplexers 
 74HC4051D-T =8-channel analog multiplexer/demultiplexer
+THAT340P14-U -  Bipolar Transistor Array, NPN, PNP, 40 V, 20 mA, 100 hFE, DIP
