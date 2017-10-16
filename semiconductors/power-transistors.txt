@@ -7,7 +7,7 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     NJW0281G (NPN) ~3A
     NJW0302G (PNP) ~3A
     2N5194G  (PNP) Silicon PNP Power Transistors 4A
-    BD535 - Complementary power transistors 8A , BD534 and
+    BD535 - (NPN) Complementary power transistors 8A , (PNP)  BD534 and BD536.
       HIGHT VOLATGE
       2STA1943 - High power PNP epitaxial planar bipolar transistor 230v
       
