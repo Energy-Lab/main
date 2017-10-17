@@ -13,7 +13,7 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
 
 Linear Voltage Regulators
     KA7805 - 5v , 2.2A, MAX Voltage = 35V
-    KIA78R12PI- 1A,Over Current Protection,MAX = 35v
+    KIA78R12PI- 1A,Over Current Protection,MAX = 35v,R12PI=12v output
  
 Bipolar Junction Transistors  --> BJT
    BC637 - (NPN) Hight current transistor 1A  -- BJT
