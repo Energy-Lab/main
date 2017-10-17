@@ -45,4 +45,5 @@ Bipolar Junction Transistors  --> BJT , Controled By Curent
 
 Photostransistor
       MOC8204M - VCEo = 400v
+      H11D2 - VCEo = 300v
 
