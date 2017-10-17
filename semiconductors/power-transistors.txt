@@ -43,3 +43,6 @@ Bipolar Junction Transistors  --> BJT , Controled By Curent
            511-MJE350 -  (PNP) 300v ,VCBO=3V 20w
            2SD2578 -DSVo=1500V,VEBO=6v,Ic=8A,60W
 
+Photostransistor
+      MOC8204M - VCEo = 400v
+
