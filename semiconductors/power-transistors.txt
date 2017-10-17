@@ -11,6 +11,8 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
  IGBT - Insulated Gate Bipolar Transistor .  >240kHz Aplications,Hight Power,Hight Current, More Loss in Low Usage
     GP50B60PD1 -N-Channel VCES = 600V ,VCE(on) typ. = 2.00V,@ VGE = 15V IC = 33A,RCE(on) typ. = 61mΩ,ID (FET equivalent) = 50A
 
+Linear Voltage Regulators
+    KA7805 - 5v , 2.2A, MAX Voltage = 35V
 
  
 Bipolar Junction Transistors  --> BJT
