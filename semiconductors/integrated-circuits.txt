@@ -17,3 +17,6 @@ Multiplexers
 74HC4051D-T =8-channel analog multiplexer/demultiplexer
 THAT340P14-U -  Bipolar Transistor Array, NPN, PNP, 40 V, 20 mA, 100 hFE, DIP
 THAT340S14-U -  Bipolar Transistor Array, Low-Noise, NPN, PNP, 40 V, 20 mA, 100 hFE, SOIC
+
+Short Circuit Protection
+Philips BUK9MNN-65PKK
