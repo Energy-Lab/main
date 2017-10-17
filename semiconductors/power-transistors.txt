@@ -6,7 +6,7 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     FQP30N06L N-Shanel 60v,32A constant,35mOhm
     IRLB4030PbF - N-Shanel Very Low RDS(ON) 3.4mΩ-4.2mΩ_MAX at 4.5V , ID 180A - 140w, VDSS 100v , VGS ~+ 16v max
     STP3NK90Z Vdds 900v, Rds (on)4.8 Ohm, Id 3A, Pw  25W
-    SMK0965F - N-Chanel VGS(th) 2-4v,  BVDSS=650V(Min.) ,Low Crss : Crss=16pF(Typ.) ,Low RDS(on) : RDS(on)=0.85Ω(Max.) , Gsv+- 30V, I 9A     STP9NC60 - N-Chanel, MADE:ST, 600V - 0.6Ω - 9A HIGH SPEED SWITCHING, GSVo=+-30V,ID=9A,PWM=36A,125W
+    SMK0965F - N-Chanel VGS(th) 2-4v,  BVDSS=650V(Min.) ,Low Crss : Crss=16pF(Typ.) ,Low RDS(on) : RDS(on)=0.85Ω(Max.) , Gsv+- 30V, I 9A     STP9NC60 - N-Chanel, MADE:ST, 600V - 0.6Ω - 9A HIGH SPEED SWITCHING, GSVo=+-30V,ID=9A,PWM=36A,125W,Treashold VDS = VGS ID = 250 µA 4V
     
     
  IGBT - Insulated Gate Bipolar Transistor .  >240kHz Aplications,Hight Power,Hight Current, More Loss in Low Usage
