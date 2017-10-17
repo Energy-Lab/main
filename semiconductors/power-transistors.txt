@@ -28,6 +28,7 @@ Bipolar Junction Transistors  --> BJT
       TIP32C (PNP) Vebo=-5v , Ic=-3A or Icp=-5A, Vebo=-100v,Ib
       B772 (PNP) Vebo = -5v,Vceo=-60v,Ic = 3A power
       BD136 (PNP) Vceo = -45v,Ic=1.5A,
+      BDX33B (NPN) Darlington, Ib=.25A,Ic=10A
         HIGHT VOLATGE
            2STA1943 - High power PNP epitaxial planar bipolar transistor 230v
            FJL6820  - HIGHT power 1500v (NPN) 20A DC,VEBO 6v , 200w power
