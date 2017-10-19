@@ -70,3 +70,5 @@ Photostransistor
       MOC8204M - VCEo = 400v
       H11D2 - VCEo = 300v
 
+TRIAC 
+BTA24-600B
