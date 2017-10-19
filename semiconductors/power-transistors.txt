@@ -35,7 +35,8 @@ Diodes
      1N5819 - 5819 1A 40V SCHOTTKY DIODE 
      1N5817  300kH>
      SR560  - SCHOTTKY BARRIER RECTIFIER DIODES, PRV : 20 - 60 Volts ,IO : 5.0 Amperes
-     
+  ELSE
+     1n34
      
   
  
