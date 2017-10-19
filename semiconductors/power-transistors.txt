@@ -19,6 +19,19 @@ Linear Voltage Regulators
     KA7805 - 5v , 2.2A, MAX Voltage = 35V
     KIA78R12PI- 1A,Over Current Protection,MAX = 35v,R12PI=12v output
     AMS1117 (SMD) ~1A, MAX 15V
+
+Diodes
+  Zener 
+    1N4742A - Voltage Regulator  Zener Diode 1W 12V LW
+  
+  UF Diode 
+     UF4007 - 1 Amp 1KV Ultra Fast Diode FSC/VISHAY/MIC DO-41 
+  
+  SCHOTTKY
+     1N5819 - 5819 1A 40V SCHOTTKY DIODE 
+    
+  
+  
  
 Bipolar Junction Transistors  --> BJT , Controled By Curent
    BC637 - (NPN) Hight current transistor 1A  -- BJT
