@@ -32,7 +32,7 @@ Diodes
   SCHOTTKY
      1N5819 - 5819 1A 40V SCHOTTKY DIODE  kH >  
      
-  
+     
   
  
 Bipolar Junction Transistors  --> BJT , Controled By Curent
