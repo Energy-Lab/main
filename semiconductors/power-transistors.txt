@@ -28,8 +28,8 @@ Diodes
      UF4007 - 1 Amp 1KV Ultra Fast Diode FSC/VISHAY/MIC DO-41 
   
   SCHOTTKY
-     1N5819 - 5819 1A 40V SCHOTTKY DIODE 
-    
+     1N5819 - 5819 1A 40V SCHOTTKY DIODE  kH >  
+     
   
   
  
