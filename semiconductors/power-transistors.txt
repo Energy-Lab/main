@@ -8,7 +8,8 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     STP3NK90Z Vdds 900v, Rds (on)4.8 Ohm, Id 3A, Pw  25W
     SMK0965F - N-Chanel VGS(th) 2-4v,  BVDSS=650V(Min.) ,Low Crss : Crss=16pF(Typ.) ,Low RDS(on) : RDS(on)=0.85Ω(Max.) , Gsv+- 30V, I 9A     STP9NC60 - N-Chanel, MADE:ST, 600V - 0.6Ω - 9A HIGH SPEED SWITCHING, GSVo=+-30V,ID=9A,PWM=36A,125W,Treashold VDS = VGS ID = 250 µA 4V
     FQPF4N20 - N-Chanel, VDSS=200v,PWM=11.2A,VDSS=+-30v,VDS(TRESHOLD) min-3v max 5v
-    
+    IRFZ44N VDSS = 55V,RDS(on) = 17.5mΩ,ID = 49A,VGS=+-20v,Idm,160A,IGS 35A-49A ,VGS(th) 2V~4V
+   
     
  IGBT - Insulated Gate Bipolar Transistor .  >240kHz Aplications,Hight Power,Hight Current, More Loss in Low Usage
     GP50B60PD1 -N-Channel VCES = 600V ,VCE(on) typ. = 2.00V,@ VGE = 15V IC = 33A,RCE(on) typ. = 61mΩ,ID (FET equivalent) = 50A
