@@ -21,7 +21,7 @@ Linear Voltage Regulators
     AMS1117 (SMD) ~1A, MAX 15V
 
 Diodes
-  Basic  KH<=
+  Basic Silicone KH<=
     1N4001-1N4007 1A, 
   Zener 
     1N4742A - Voltage Regulator  Zener Diode 1W 12V LW
