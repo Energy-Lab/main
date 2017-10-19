@@ -1,3 +1,4 @@
 
-Zener  KH>
+Zener  KH> , Power (in Watts)=Vf(in Volts) * 1(in Amps)  --|>- I
+                                                          -Vf^
   1N5819 
