@@ -20,3 +20,6 @@ THAT340S14-U -  Bipolar Transistor Array, Low-Noise, NPN, PNP, 40 V, 20 mA, 100 
 
 Short Circuit Protection
 Philips BUK9MNN-65PKK
+
+DC-DC Converters Regulator
+LM2678T-ADJ SIMPLE SWITCHER® High Efficiency 5-A Step-Down Voltage Regulator
