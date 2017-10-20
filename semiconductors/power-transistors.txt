@@ -10,7 +10,7 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     FQPF4N20 - N-Chanel, VDSS=200v,PWM=11.2A,VDSS=+-30v,VDS(TRESHOLD) min-3v max 5v
     IRFZ44N  - N-Chanel VDSS = 55V,RDS(on) = 17.5mΩ,ID = 49A,VGS=+-20v,Idm,160A,IGS 35A-49A ,VGS(th) 2V~4V
     IRFZ44E  - N-Chanel VDSS = 60V,RDS(on) = 0.023Ω, D = 48A, (PWM)IDM=192A,VGS=+-20V,VGS(th) 2V~4V
-   
+    FQP47P06 - P-Chanel  -60V,-47A,26mΩ,IDM=188A,VGSS+-25V
     
  IGBT - Insulated Gate Bipolar Transistor .  >240kHz Aplications,Hight Power,Hight Current, More Loss in Low Usage
     GP50B60PD1 -N-Channel VCES = 600V ,VCE(on) typ. = 2.00V,@ VGE = 15V IC = 33A,RCE(on) typ. = 61mΩ,ID (FET equivalent) = 50A
