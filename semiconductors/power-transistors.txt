@@ -20,6 +20,8 @@ Linear Voltage Regulators
     KIA78R12PI- 1A,Over Current Protection,MAX = 35v,R12PI=12v output
     AMS1117 (SMD) ~1A, MAX 15V
     LM2940  @Io=1A, Low Dropout Regulator, Drop voltage typically (VDRP)  0.5V  
+      DC-DC converter Regulator
+         LM2678T-ADJ SIMPLE SWITCHER® High Efficiency 5-A Step-Down Voltage Regulator
 
 Diodes
  Note: More Voltage - Less efficienty
