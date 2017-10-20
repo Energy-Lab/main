@@ -72,7 +72,7 @@ Bipolar Junction Transistors  --> BJT , Controled By Curent
       D2499 (NPN) Ic 6A,PWM 12A,IBVo=6V,50W, Toshiba
         HIGHT VOLATGE
            2STA1943 - High power PNP epitaxial planar bipolar transistor 230v
-           FJL6820  - HIGHT power 1500v (NPN) 20A DC,VEBO 6v , 200w power
+           FJL6820  - HIGHT power 1500v (NPN) 20A DC,VEBO 6v , 200w power , Large
            D1047  (NPN) - Vceo= 140v,Ebv=6V,Ic=12A,
            511-MJE350 -  (PNP) 300v ,VCBO=3V 20w
            2SD2578 -DSVo=1500V,VEBO=6v,Ic=8A,60W
