@@ -25,7 +25,9 @@ Linear Voltage Regulators
 
 Diodes
  Note: More Voltage - Less efficienty
- 
+  Surge Protection 
+      Zinc Oxide Varistor
+  
   Basic Silicone KH<=
     1N4001-1N4007 1A, 
   Zener 
@@ -81,5 +83,4 @@ Photostransistor
 TRIAC 
 BTA24-600B
 
-Surge Protection 
-  Zinc Oxide Varistor
+
