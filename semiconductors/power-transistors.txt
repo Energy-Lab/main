@@ -80,3 +80,6 @@ Photostransistor
 
 TRIAC 
 BTA24-600B
+
+Surge Protection 
+  Zinc Oxide Varistor
