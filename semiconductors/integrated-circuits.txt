@@ -6,7 +6,6 @@ ACS1086 - AC switch family Transient voltage protected AC Switch,Drive of low po
 ACS120-7S - AC static switching in appliance control systems 700v, G 10mA 
 MOC3021 - 250 V Phototriac Driver Output
 ULN2003 - IC High-Voltage, High-Current Darlington Transistor Arrays
-L6561D - VERY   PRECISE    ADJUSTABLE   OUTPUT OVERVOLTAGE PROTECTION
 ACS3025T -  THREE LINES AC SWITCH ARRAY
 MOC3062SM - Optocoupler triac http://www.mouser.com/ds/2/149/MOC3062M-196063.pdf
 T3035H-6T - Triac http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00263568.pdf
@@ -27,3 +26,4 @@ LM2678T-ADJ SIMPLE SWITCHER® High Efficiency 5-A Step-Down Voltage Regulator
 Over Voltage Protection
 LTC3810
 LTC4366-2
+L6561D - VERY   PRECISE    ADJUSTABLE   OUTPUT OVERVOLTAGE PROTECTION
