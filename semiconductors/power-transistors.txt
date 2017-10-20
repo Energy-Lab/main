@@ -41,6 +41,7 @@ Diodes
      SR560  - SCHOTTKY BARRIER RECTIFIER DIODES, PRV : 20 - 60 Volts ,IO : 5.0 Amperes
      STPS2L60
      STPS5L60
+     SB320 - Schottky Barrier Plastic Rectifier
   ELSE
      1n34
      1N4148 
