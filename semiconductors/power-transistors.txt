@@ -72,6 +72,7 @@ Bipolar Junction Transistors  --> BJT , Controled By Curent
            D1047  (NPN) - Vceo= 140v,Ebv=6V,Ic=12A,
            511-MJE350 -  (PNP) 300v ,VCBO=3V 20w
            2SD2578 -DSVo=1500V,VEBO=6v,Ic=8A,60W
+           MPSA42 - VCEO=300v, 500mA
 
 Photostransistor
       MOC8204M - VCEo = 400v
