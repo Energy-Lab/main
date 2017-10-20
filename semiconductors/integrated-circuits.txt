@@ -26,3 +26,4 @@ LM2678T-ADJ SIMPLE SWITCHER® High Efficiency 5-A Step-Down Voltage Regulator
 
 Over Voltage Protection
 LTC3810
+LTC4366-2
