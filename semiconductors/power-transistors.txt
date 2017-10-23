@@ -13,7 +13,7 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     FQP47P06 - P-Chanel  -60V,-47A,26mΩ,IDM=188A,VGSS+-25V
     IRF3708
     IRLR8743
-    
+    (Cree MOSFET Low Swithing Loss and Hght Voltage)
     
  IGBT - Insulated Gate Bipolar Transistor .  >240kHz Aplications,Hight Power,Hight Current, More Loss in Low Usage
     GP50B60PD1 -N-Channel VCES = 600V ,VCE(on) typ. = 2.00V,@ VGE = 15V IC = 33A,RCE(on) typ. = 61mΩ,ID (FET equivalent) = 50A
