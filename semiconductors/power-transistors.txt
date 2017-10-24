@@ -1,3 +1,4 @@
+```cpp
 AMS1117 5.0 DN728 - Voltage Regulator 5V output , max input 15v
 2N6504  half-wave ac control applications, such as motor controls, heating controls and power supply crowbar circuits
 PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output structure manipulate AC or DC
@@ -14,7 +15,7 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     IRF3708
     IRLR8743
     (Cree MOSFET Low Swithing Loss and Hght Voltage)=https://www.youtube.com/watch?v=nxhvLEWa7R4
-    
+    irf9540 (P-Channel) 24A
  IGBT - Insulated Gate Bipolar Transistor .  >240kHz Aplications,Hight Power,Hight Current, More Loss in Low Usage
     GP50B60PD1 -N-Channel VCES = 600V ,VCE(on) typ. = 2.00V,@ VGE = 15V IC = 33A,RCE(on) typ. = 61mΩ,ID (FET equivalent) = 50A
 
@@ -88,3 +89,4 @@ TRIAC
 BTA24-600B
 
 
+```
