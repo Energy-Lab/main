@@ -12,6 +12,7 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     IRFZ44N  - N-Chanel VDSS = 55V,RDS(on) = 17.5mΩ,ID = 49A,VGS=+-20v,Idm,160A,IGS 35A-49A ,VGS(th) 2V~4V
     IRFZ44E  - N-Chanel VDSS = 60V,RDS(on) = 0.023Ω, D = 48A, (PWM)IDM=192A,VGS=+-20V,VGS(th) 2V~4V
     FQP47P06 - P-Chanel  -60V,-47A,26mΩ,IDM=188A,VGSS+-25V
+    50N06    - N-Channel 60V,50A, RDS(ON) = 23mΩ@VGS = 10 V  --- 
     IRF3708
     IRLR8743
     (Cree MOSFET Low Swithing Loss and Hght Voltage)=https://www.youtube.com/watch?v=nxhvLEWa7R4
