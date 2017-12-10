@@ -46,6 +46,7 @@ Diodes
      UF2004 - 2 Amp 60 Amp Peak, 240v Reverers Current Peak, 300v Max .
      UF300 THRU UF3010
      UF300 VOLTAGE - 50 to 1000 Volts CURRENT - 3.0 Amperes , Was Found HP power suply
+     GUR460 Typcical 4A , 150A only 8.3 ms , Utra fast recovery time, 600v 
   SF diode /super fast
      SF30GG  3A // Was use in power brick , Reverse Voltage 280v - 400v ,Was Found HP power suply
   SCHOTTKY kH >  MID to HIGHT FRQUENCY
