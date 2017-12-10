@@ -42,6 +42,7 @@ Diodes
   
   UF Diode 
      UF4007 - 1 Amp 1KV Ultra Fast Diode FSC/VISHAY/MIC DO-41 
+     UF2004 - 2 Amp 60 Amp Peak, 240v Reverers Current Peak, 300v Max .
   
   SCHOTTKY kH >  MID to HIGHT FRQUENCY
      1N5819 - 5819 1A 40V SCHOTTKY DIODE 
