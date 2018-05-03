@@ -24,6 +24,8 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     (Cree MOSFET Low Swithing Loss and Hght Voltage)=https://www.youtube.com/watch?v=nxhvLEWa7R4
     irf9540 (P-Channel) 24A
      
+     MIDDLE Voltage 
+      STB75NF75 N-Channel 75v  0.0095Ohm - 80A
      
    --> HIGHT Voltage
       K2698 18A 500v 3v-5v GDS , Found in Power Inverter
