@@ -23,10 +23,12 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     
     (Cree MOSFET Low Swithing Loss and Hght Voltage)=https://www.youtube.com/watch?v=nxhvLEWa7R4
     irf9540 (P-Channel) 24A
-      Hight Voltage
+     
+     
+   --> HIGHT Voltage
       K2698 18A 500v 3v-5v GDS , Found in Power Inverter
-      
-     LOW Voltage
+      IRF830  N-Channel 500v 5A
+    --> LOW Voltage
      IRLR8743 N-Channel ID (@ TC=25°C)   max =160.0 A, VDS   max = 30vdc
  IGBT - Insulated Gate Bipolar Transistor .  >240kHz Aplications,Hight Power,Hight Current, More Loss in Low Usage
     GP50B60PD1 -N-Channel VCES = 600V ,VCE(on) typ. = 2.00V,@ VGE = 15V IC = 33A,RCE(on) typ. = 61mΩ,ID (FET equivalent) = 50A
