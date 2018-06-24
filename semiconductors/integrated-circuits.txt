@@ -12,6 +12,9 @@ T3035H-6T - Triac http://www.st.com/st-web-ui/static/active/en/resource/technica
 PC123 DIP-4 - opti Triac
 817c - Optocoupler  use on relays 
 
+Triac Opticople
+MOC3061 400v
+
 Multiplexers 
 74HC4051D-T =8-channel analog multiplexer/demultiplexer
 THAT340P14-U -  Bipolar Transistor Array, NPN, PNP, 40 V, 20 mA, 100 hFE, DIP
