@@ -14,6 +14,7 @@ PC123 DIP-4 - opti Triac
 
 Triac Opticople
 MOC3061 400v
+MOC3083 800v
 
 Multiplexers 
 74HC4051D-T =8-channel analog multiplexer/demultiplexer
