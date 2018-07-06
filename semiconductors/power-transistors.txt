@@ -30,6 +30,7 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
    --> HIGHT Voltage
       K2698 18A 500v 3v-5v GDS , Found in Power Inverter
       IRF830  N-Channel 500v 5A
+      IRF460  500v, 14A~22A
     --> LOW Voltage
      IRLR8743 N-Channel ID (@ TC=25°C)   max =160.0 A, VDS   max = 30vdc
  IGBT - Insulated Gate Bipolar Transistor .  >240kHz Aplications,Hight Power,Hight Current, More Loss in Low Usage
