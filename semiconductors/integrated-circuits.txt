@@ -38,3 +38,7 @@ IC AT24C32 AT24C32A 2-Wire Serial EEPROM Memory DIP
 
 Photocoupler 
 LTV-817  http://www.mouser.com/ds/2/239/LTV-817-827-847-647.pdf
+
+
+Mosfet Driver
+IR2110
