@@ -14,9 +14,10 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     IRF1404 - N-Channel VDSS=40V,RDS(on)=0,004Ω, ID=202A, MoneteryCurrent=808A,VGS(th) 2V~4V
     IRF3205 - N-Channel IDS(ON) = 110 , RDS(On)=0.008Ω. VDSS = 55V
     FQP47P06 - P-Chanel  -60V,-47A,26mΩ,IDM=188A,VGSS+-25V
-    50N06    - N-Channel 60V,50A, RDS(ON) = 23mΩ@VGS = 10 V  --- 
+    50N06    - N-Channel 60V,50A, RDS(ON) = 23mΩ @VGS = 10 V  --- 
     IRF3708
     IRLR8743
+    RU6888   - N Channel 68v 78A RDS(ON) = 23mΩ
     irf1405  - N-Channel RDS(on) = 5.3mΩ, VDS = 55v, Id = 169A,VGS(th) = 2.0 ~ 4.0 v / VDS = 10V, ID = 250µA
     HY1607  N-Channel 68V/70A RDS(ON)= mW (typ.) @ VGS=10V --> From E bike
     
