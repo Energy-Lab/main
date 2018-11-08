@@ -2,3 +2,5 @@
 
 Photocoupler 
 LTV-817=4pins - LTV-847=16pins http://www.mouser.com/ds/2/239/LTV-817-827-847-647.pdf
+
+BC546 80v
