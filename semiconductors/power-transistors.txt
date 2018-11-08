@@ -72,6 +72,8 @@ Diodes
      STPS5L60
      SB320 - Schottky Barrier Plastic Rectifier
      1N5818
+  ZENER
+  12v 1N4742A
   ELSE
      1n34
      1N4148 
