@@ -98,6 +98,7 @@ Bipolar Junction Transistors  --> BJT , Controled By Curent
       512-TIP32CTU-(PNP) Vceo_MAX=-40V,Vebo= 5v,40watt, Ic=-3A
       BD682G  (PNP) Darlington 4A, Veco = 100v,40watt
       D2499 (NPN) Ic 6A,PWM 12A,IBVo=6V,50W, Toshiba
+      bc546 80v GCE=6v
         HIGHT VOLATGE
            2STA1943 - High power PNP epitaxial planar bipolar transistor 230v
            FJL6820  - HIGHT power 1500v (NPN) 20A DC,VEBO 6v , 200w power , Large
