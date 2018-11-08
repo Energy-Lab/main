@@ -73,11 +73,12 @@ Diodes
      SB320 - Schottky Barrier Plastic Rectifier
      1N5818
   ZENER
-  12v 1N4742A
+  12v 1N4742A, 24v max
+  
   ELSE
      1n34
      1N4148 
-  
+     FHP20100 100V, 10-20A,PWM 150A, -40~150C
  
 Bipolar Junction Transistors  --> BJT , Controled By Curent
    BC637 - (NPN) Hight current transistor 1A  -- BJT
