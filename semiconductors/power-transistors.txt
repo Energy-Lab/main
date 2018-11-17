@@ -50,6 +50,9 @@ Diodes
   Surge Protection 
       Zinc Oxide Varistor
   
+  Shotky
+  20200ct 20A, 200v, Reverse Voltage 35v
+  
   Basic Silicone KH<=
     1N4001-1N4007 1A, 
   Zener 
