@@ -35,7 +35,9 @@ PVR13 - Serias of BOSFET contains bidirectional N-channel power MOSFET output st
     --> LOW Voltage
      IRLR8743 N-Channel ID (@ TC=25°C)   max =160.0 A, VDS   max = 30vdc
  IGBT - Insulated Gate Bipolar Transistor .  >240kHz Aplications,Hight Power,Hight Current, More Loss in Low Usage
-    GP50B60PD1 -N-Channel VCES = 600V ,VCE(on) typ. = 2.00V,@ VGE = 15V IC = 33A,RCE(on) typ. = 61mΩ,ID (FET equivalent) = 50A
+    GP50B60PD1 -N-Channel VCES = 600V ,VCE(on) typ. = 2.00V,@ VGE = 15V IC = 33A,RCE(on) typ. = 61mΩ,ID (FET equivalent) = 50A 
+    
+    IRGP50B60PD1 VCES = 600V VCE(on) typ. = 2.00V @ VGE = 15V IC = 33A
 
 Linear Voltage Regulators
     KA7805 - 5v , 2.2A, MAX Voltage = 35V
