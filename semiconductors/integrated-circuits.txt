@@ -42,3 +42,4 @@ LTV-817  http://www.mouser.com/ds/2/239/LTV-817-827-847-647.pdf
 
 Mosfet Driver
 IR2110
+TC4420/TC4429
