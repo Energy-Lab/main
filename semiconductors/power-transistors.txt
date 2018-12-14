@@ -126,5 +126,6 @@ Photostransistor
 TRIAC 
 BTA24-600B
 
-
+Mosfet Driver 
+TC4420/TC4429
 ```
